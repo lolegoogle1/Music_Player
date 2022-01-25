@@ -1,0 +1,9 @@
+Functionality:
+    - play, pause, stop, next, previous song
+    - playlists
+    - add, delete song from lists
+    - favourite songs according to the listening activity
+    - lyrics
+    - integration with Google and/or Facebook oauth2
+Design:
+    pass
